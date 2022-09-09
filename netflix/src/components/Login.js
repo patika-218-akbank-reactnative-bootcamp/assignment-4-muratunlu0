@@ -88,7 +88,7 @@ const LoginScreen = () => {
           justifyContent: 'center',
           width: 67,
           height: 67,
-          backgroundColor: '#5fa3de',
+          backgroundColor: '#d90914',
           borderRadius: 50,
           marginTop: 21,
         }}>
@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     marginVertical: 10,
   },
   loginView: {
-    backgroundColor: '#1d2733',
+    backgroundColor: 'black',
     height: '100%',
     display: 'flex',
     flexDirection: 'column',

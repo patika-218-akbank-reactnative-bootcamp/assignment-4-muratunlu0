@@ -32,8 +32,8 @@ const moveList = [
   {
     id: 3,
     firstName: 'John Wick 2',
-    lastName: 'Bayan',
-    username: 'poncikbayn',
+    lastName: '',
+    username: '',
     bio: '2020',
     imageUrl:
       'https://i.pinimg.com/236x/2a/4c/82/2a4c827fbdb3d4620a70a0e99be5cb39--john-wick-originals.jpg',
@@ -129,7 +129,7 @@ const Chats = () => {
         style={styles.scrollView}>
         <View style={styles.card}>
           <TextInput
-            placeholder="First Name"
+            placeholder="Search movie .."
             // onChangeText={newText => setFirstName(newText)}
             marginHorizontal={11}
             height={'100%'}
@@ -137,7 +137,7 @@ const Chats = () => {
             // keyboardType="number-pad"
             placeholderTextColor={'white'}
             fontSize={14}
-            label="firstName"
+            label="SearchMovie"
           />
         </View>
         <UserChatButton user={moveList[0]} />
