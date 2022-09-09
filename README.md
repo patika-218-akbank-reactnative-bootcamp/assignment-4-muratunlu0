@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8414110&assignment_repo_type=AssignmentRepo)
+# NetflixClone
+I developed with React Native
+
+<img src="https://firebasestorage.googleapis.com/v0/b/savas-delisi.appspot.com/o/Screenshot_1662154330.png?alt=media&token=cf28b067-3931-42a4-8728-0f4b275bed67" width="400"> <img src="https://firebasestorage.googleapis.com/v0/b/savas-delisi.appspot.com/o/Screenshot_1662748173.png?alt=media&token=a00c6383-3e13-46a9-ac61-650dbdf88879" width="400">
